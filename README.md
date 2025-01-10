@@ -106,7 +106,7 @@ Dark Mode: Implement a toggle for dark/light mode to enhance user experience.
 Enjoy building and improving BlogSphere! 🚀
 
 
-
+This project is based on a tutorial from YouTube who is Corey Schafer
 
 
 
